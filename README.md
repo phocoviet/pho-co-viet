@@ -8,9 +8,9 @@
 
 ## About Phở Cồ Việt
 
-Phở Cồ Việt is more than a website—it’s a mission born in Thạch Bi, Nam Định, just 4.5 km from the legendary Phở Cồ village of Đồng Sơn. I’m [Your Name], a Vietnamese IT engineer in Japan, driven by a dream to share the authentic taste of Nam Định Pho with the world. From my family’s Pho shop in Hải Phòng (2011-2012) to Thạch Bi (2013-present, now run by my sister and brother-in-law), Pho has been my bridge between heritage and innovation.
+Phở Cồ Việt is more than a website—it’s a mission born in Thạch Bi, Nam Định, just 4.5 km from the legendary Phở Cồ village of Đồng Sơn. I’m Dang Hoang, a Vietnamese IT engineer in Japan, driven by a dream to share the authentic taste of Nam Định Pho with the world. From my family’s Pho shop in Hải Phòng (2011-2012) to Thạch Bi (2013-present, now run by my sister and brother-in-law), Pho has been my bridge between heritage and innovation.
 
-Here, we’re building "Phở Cồ Global"—a digital hub to document my journey crafting the perfect Pho noodle in Japan, starting with experiments like [First Noodle Test](https://phocoviet.com/first-noodle-test). It’s about preserving tradition, uplifting my hometown, and blending technology with culinary passion. Tokyo 2028 is our launch goal—join me on this flavorful ride!
+Here, we’re building "Phở Cồ Việt"—a digital hub to document my journey crafting the perfect Pho noodle in Japan, starting with experiments like [First Noodle Test](https://phocoviet.com/first-noodle-test). It’s about preserving tradition, uplifting my hometown, and blending technology with culinary passion. Tokyo 2028 is our launch goal—join me on this flavorful ride!
 
 ## Core Technology
 
