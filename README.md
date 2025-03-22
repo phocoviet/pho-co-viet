@@ -80,8 +80,8 @@ Love Pho or code? We’d love your help! Whether it’s refining noodle recipes,
 
 - **Website**: [phocoviet.com](https://phocoviet.com)  
 - **Blog**: [First Pho Noodle Test](https://www.phocoviet.com/en/journey/first-pho-co-noodle-test-japan)  
-- **X**: [@phocoglobal](https://x.com/phocoviet) *(Update with your handle)*  
-- **Instagram**: [@phocoviet](https://instagram.com/phocoviet18) *(Update with your handle)*  
+- **X**: [@phocoviet](https://x.com/phocoviet) *(Update with your handle)*  
+- **Instagram**: [@phocoviet18](https://instagram.com/phocoviet18) *(Update with your handle)*  
 
 ## License
 
